@@ -1,5 +1,5 @@
-name: module_boilerplate_dart_mobile
-description: Liberu Dart · Mobile reusable module foundation.
+name: module_sap_product_and_engineering_dart_mobile
+description: "Product and engineering Dart \u00b7 Mobile presentation skeleton."
 version: 0.1.0-dev.1
 publish_to: none
 environment:

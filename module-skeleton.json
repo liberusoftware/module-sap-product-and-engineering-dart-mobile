@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-product-and-engineering-dart-mobile",
+  "capabilityKey": "planned:sap:product-and-engineering",
+  "presentation": "dart-mobile",
+  "package": "module_sap_product_and_engineering_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/sap/nextjs/product-and-engineering.md",
+  "presentationPlan": "projects/sap/features/product-and-engineering.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
